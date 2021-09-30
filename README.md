@@ -12,5 +12,5 @@
     <p1> </p1>
     <h1 align="center">୨⎯ " 𝐒𝐭𝐚𝐭𝐬 " ⎯୧</h1>
     <p align="center">
-        <a href="htps://github.com/Barnac1ed"><img src="https://github-readme-stats.vercel.app/api?username=Barnanc1ed&theme=tokyonight&show_icons=true" alt="Barnac1ed's GitHub Stats"></a></p>
+        <a href="htps://github.com/Barnac1ed"><img src="https://github-readme-stats.vercel.app/api?username=Barnac1ed&theme=tokyonight&show_icons=true" alt="Barnac1ed's GitHub Stats"></a></p>
 </p>
