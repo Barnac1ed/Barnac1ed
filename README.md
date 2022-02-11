@@ -1,5 +1,6 @@
 <p align="center">
     <img src="/assets/gutbanner.jpg" alt="banner"/>
+    ![](https://komarev.com/ghpvc/?username=your-github-username)
     <h1 align="center">୨⎯ " 𝐖𝐞𝐥𝐜𝐨𝐦𝐞! " ⎯୧</h1>
     <p align="center">Hello, I'm Barnacled. I like to code in mainly Java, Javascript and Nodejs. I spend my time sleeping, coding, and playing video games. Also I have barnacles.</p>
     <h1 align="center">୨⎯ " 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 " ⎯୧</h1>
